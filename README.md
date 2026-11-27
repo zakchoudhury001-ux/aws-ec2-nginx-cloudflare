@@ -4,7 +4,7 @@ Project Overview
 I deployed a simple website on an Ubuntu Amazon EC2 instance, configured Nginx to serve a custom webpage, connected a domain through Cloudflare, and enabled HTTPS using Certbot and Let’s Encrypt.
 
 Live site: https://www.zakchoudhury.co.uk
-(website-https.png)
+![Website running over HTTPS](website-https.png)
 
 Technologies Used
 AWS EC2
